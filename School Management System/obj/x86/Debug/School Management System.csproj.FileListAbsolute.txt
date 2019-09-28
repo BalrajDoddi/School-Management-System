@@ -1,0 +1,68 @@
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.exe
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.pdb
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Properties.Resources.resources
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.csproj.GenerateResource.Cache
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.exe
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.pdb
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Login.resources
+c:\users\balraj doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Master.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Home.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.NewClass.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.ClassList.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.StaffList.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.StudentList.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.ClassInfo.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.StudentInfo.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.StudentAdmission.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.NewUser.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Model.TempleteWindowsForm.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.ChangePassword.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.UserInfo.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.UserList.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.StaffInfo.resources
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School Management System.csprojResolveAssemblyReference.cache
+C:\Users\Balraj Doddi\documents\visual studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Result.ResultPage.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Report.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\RdlCompile.cache
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Staff.BonafideCertificate.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Student.BonafideCertificate.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Certificates.LeavingCertificate.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Student.LCDetails.resources
+C:\Users\Balraj Doddi\Documents\Visual Studio 2010\Projects\School Management System\School Management System\obj\x86\Debug\School_Management_System.Staff.StaffEnroll.resources
+D:\desktop\build an application\Software\School Management System\School Management System\bin\Debug\School Management System.exe.config
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School Management System.exe
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School Management System.pdb
+D:\desktop\build an application\Software\School Management System\School Management System\bin\Debug\School Management System.exe
+D:\desktop\build an application\Software\School Management System\School Management System\bin\Debug\School Management System.pdb
+D:\desktop\build an application\Software\School Management System\School Management System\bin\Debug\ExcelLibrary.dll
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Staff.StaffEnroll.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Student.LCDetails.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Certificates.LeavingCertificate.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Master.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Report.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Result.ResultPage.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Staff.BonafideCertificate.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Student.BonafideCertificate.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.ChangePassword.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.ClassInfo.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.ClassList.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Home.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Login.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Model.TempleteWindowsForm.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.NewClass.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.NewUser.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.Properties.Resources.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.StaffInfo.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.StaffList.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.StudentAdmission.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.StudentInfo.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.StudentList.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.UserInfo.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School_Management_System.UserList.resources
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\School Management System.csproj.GenerateResource.Cache
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\RdlCompile.cache
+D:\desktop\build an application\Software\School Management System\School Management System\obj\x86\Debug\RdlCompile.compiled
+D:\desktop\build an application\Software\School Management System\School Management System\bin\Debug\School Management System.mdf
+D:\desktop\build an application\Software\School Management System\School Management System\bin\Debug\School Management System_log.ldf
